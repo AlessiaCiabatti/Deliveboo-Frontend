@@ -9,7 +9,7 @@ Questo repository è la parte di front-end di un progetto che comprende anche il
 https://github.com/AlessiaCiabatti/Deliveboo-Backend.git
 
 
-<p align="center"><img src="img_project/img_home.png.png" width="800" alt="Laravel Logo"></p>
+<p align="center"><img src="img_project/img_home.png" width="800" alt="Laravel Logo"></p>
 
 <p align="center"><img src="img_project/img_restaurant.png" width="800" alt="Laravel Logo"></p>
 
