@@ -9,10 +9,10 @@ Questo repository è la parte di front-end di un progetto che comprende anche il
 https://github.com/AlessiaCiabatti/Deliveboo-Backend.git
 
 
-<p align="center"><img src="img_project/img_home.png" width="800" alt="Laravel Logo"></p>
+<p align="center"><img src="img_project/homepage.png" width="800" alt="Laravel Logo"></p>
 
-<p align="center"><img src="img_project/img_restaurant.png" width="800" alt="Laravel Logo"></p>
+<p align="center"><img src="img_project/ristoranti.png" width="800" alt="Laravel Logo"></p>
 
-<p align="center"><img src="img_project/img_menu.png" width="800" alt="Laravel Logo"></p>
+<p align="center"><img src="img_project/menu_ristorante.png" width="800" alt="Laravel Logo"></p>
 
-<p align="center"><img src="img_project/img_checkout.png" width="800" alt="Laravel Logo"></p>
+<p align="center"><img src="img_project/menu_pagamento.png" width="800" alt="Laravel Logo"></p>
